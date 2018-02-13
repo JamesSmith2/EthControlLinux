@@ -3,7 +3,7 @@ EthControl for mining rig monitoring remotely
 
 # Install
 
-wget https://github.com/JamesSmith2/EthControlLinux/releases/download/1.4/EthControlLinuxv1.4.zip && unzip EthControlLinuxv1.4.zip && chmod +x EthControl
+wget https://github.com/JamesSmith2/EthControlLinux/releases/download/1.5/EthControl1.5.zip && unzip EthControl1.5.zip && chmod +x EthControl
 
 # Usage
 
