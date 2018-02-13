@@ -1,0 +1,3 @@
+ENABLED=1
+DAEMON=/usr/local/bin/EthControl
+DAEMON_OPTS="-accessToken ACCESS_TOKEN"
