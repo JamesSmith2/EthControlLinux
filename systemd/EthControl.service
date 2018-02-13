@@ -1,0 +1,14 @@
+[Unit]
+Description=EthControl mining service
+After=network.target
+
+[Service]
+EnvironmentFile=/etc/default/EthControl
+ExecStart=/usr/local/bin/EthControl $DAEMON_OPTS
+KillMode=process
+User=miner
+Group=miner
+WorkingDirectory=~
+
+[Install]
+WantedBy=multi-user.target
