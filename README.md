@@ -5,6 +5,12 @@ EthControl for mining rig monitoring remotely
 
 wget https://github.com/JamesSmith2/EthControlLinux/releases/download/1.5.1/EthControl1.5.1.zip && unzip EthControl1.5.1.zip && chmod +x EthControl
 
+# Compatible
+
+- EthOS = yes
+- Ubuntu = yes
+- SimpleMining OS = yes
+
 # Usage
 
   -accessToken string
