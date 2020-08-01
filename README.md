@@ -1,6 +1,9 @@
 # EthControlLinux
 EthControl for mining rig monitoring remotely
 
+
+# LATEST ETH CONTROL FOR UBUNTU 18.04 available here: http://repo.ethmonitoring.com/bionic/
+
 # Install
 
 wget https://github.com/JamesSmith2/EthControlLinux/releases/download/1.5.1/EthControl1.5.1.zip && unzip EthControl1.5.1.zip && chmod +x EthControl
